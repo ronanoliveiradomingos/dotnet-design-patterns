@@ -1,0 +1,11 @@
+D:\projetos\dotnet-design-patterns\Pattern.Fluent.Builder\obj\Debug\netcoreapp3.0\Pattern.Fluent.Builder.csprojAssemblyReference.cache
+D:\projetos\dotnet-design-patterns\Pattern.Fluent.Builder\obj\Debug\netcoreapp3.0\Pattern.Fluent.Builder.AssemblyInfoInputs.cache
+D:\projetos\dotnet-design-patterns\Pattern.Fluent.Builder\obj\Debug\netcoreapp3.0\Pattern.Fluent.Builder.AssemblyInfo.cs
+D:\projetos\dotnet-design-patterns\Pattern.Fluent.Builder\bin\Debug\netcoreapp3.0\Pattern.Fluent.Builder.exe
+D:\projetos\dotnet-design-patterns\Pattern.Fluent.Builder\bin\Debug\netcoreapp3.0\Pattern.Fluent.Builder.deps.json
+D:\projetos\dotnet-design-patterns\Pattern.Fluent.Builder\bin\Debug\netcoreapp3.0\Pattern.Fluent.Builder.runtimeconfig.json
+D:\projetos\dotnet-design-patterns\Pattern.Fluent.Builder\bin\Debug\netcoreapp3.0\Pattern.Fluent.Builder.runtimeconfig.dev.json
+D:\projetos\dotnet-design-patterns\Pattern.Fluent.Builder\bin\Debug\netcoreapp3.0\Pattern.Fluent.Builder.dll
+D:\projetos\dotnet-design-patterns\Pattern.Fluent.Builder\bin\Debug\netcoreapp3.0\Pattern.Fluent.Builder.pdb
+D:\projetos\dotnet-design-patterns\Pattern.Fluent.Builder\obj\Debug\netcoreapp3.0\Pattern.Fluent.Builder.dll
+D:\projetos\dotnet-design-patterns\Pattern.Fluent.Builder\obj\Debug\netcoreapp3.0\Pattern.Fluent.Builder.pdb
