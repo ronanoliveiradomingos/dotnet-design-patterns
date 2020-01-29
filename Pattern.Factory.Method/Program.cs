@@ -1,12 +1,18 @@
-﻿using System;
-
-namespace Pattern.Factory.Method
+﻿namespace Pattern.Factory.Method
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            AirConditioner
+                .InitializeFactories()
+                .ExecuteCreation(Actions.Warming, 22.5)
+                .Operate();
+
+            AirConditioner
+                .InitializeFactories()
+                .ExecuteCreation(Actions.Cooling, 5.0)
+                .Operate();
         }
     }
 }
