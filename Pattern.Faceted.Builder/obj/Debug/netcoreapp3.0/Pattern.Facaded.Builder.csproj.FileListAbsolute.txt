@@ -1,0 +1,11 @@
+D:\projetos\dotnet-design-patterns\Pattern.Facaded.Builder\obj\Debug\netcoreapp3.0\Pattern.Facaded.Builder.csprojAssemblyReference.cache
+D:\projetos\dotnet-design-patterns\Pattern.Facaded.Builder\obj\Debug\netcoreapp3.0\Pattern.Facaded.Builder.AssemblyInfoInputs.cache
+D:\projetos\dotnet-design-patterns\Pattern.Facaded.Builder\obj\Debug\netcoreapp3.0\Pattern.Facaded.Builder.AssemblyInfo.cs
+D:\projetos\dotnet-design-patterns\Pattern.Facaded.Builder\bin\Debug\netcoreapp3.0\Pattern.Facaded.Builder.exe
+D:\projetos\dotnet-design-patterns\Pattern.Facaded.Builder\bin\Debug\netcoreapp3.0\Pattern.Facaded.Builder.deps.json
+D:\projetos\dotnet-design-patterns\Pattern.Facaded.Builder\bin\Debug\netcoreapp3.0\Pattern.Facaded.Builder.runtimeconfig.json
+D:\projetos\dotnet-design-patterns\Pattern.Facaded.Builder\bin\Debug\netcoreapp3.0\Pattern.Facaded.Builder.runtimeconfig.dev.json
+D:\projetos\dotnet-design-patterns\Pattern.Facaded.Builder\bin\Debug\netcoreapp3.0\Pattern.Facaded.Builder.dll
+D:\projetos\dotnet-design-patterns\Pattern.Facaded.Builder\bin\Debug\netcoreapp3.0\Pattern.Facaded.Builder.pdb
+D:\projetos\dotnet-design-patterns\Pattern.Facaded.Builder\obj\Debug\netcoreapp3.0\Pattern.Facaded.Builder.dll
+D:\projetos\dotnet-design-patterns\Pattern.Facaded.Builder\obj\Debug\netcoreapp3.0\Pattern.Facaded.Builder.pdb
